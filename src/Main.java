@@ -5,8 +5,10 @@ public class Main {
     teacher1.eating();
     teacher1.teaching();
     teacher1.sleeping();
+    teacher1.grading();
     Student student1 = new Student("Ali", "Ibrahim", 28, "male");
     student1.eating();
     student1.takingExam();
+    student1.studying();
     }
 }
