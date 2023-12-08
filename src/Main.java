@@ -10,5 +10,7 @@ public class Main {
     student1.eating();
     student1.takingExam();
     student1.studying();
+    Principal principal = new Principal("Mirza","Ganiyev", 32, "male");
+    principal.leading();
     }
 }
